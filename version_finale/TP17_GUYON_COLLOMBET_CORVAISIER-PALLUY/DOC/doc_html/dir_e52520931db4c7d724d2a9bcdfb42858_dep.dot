@@ -1,0 +1,11 @@
+digraph "C:/Users/Remey/Desktop/sae01_v3/SAE01_v2/SAE01/obj/Release/netcoreapp3.1"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_519d680f3895daf16cdc321bf46e4938 {
+    graph [ bgcolor="#eaeff9", pencolor="grey50", style="filled,dashed,", label="Release", fontname="Helvetica", fontsize="10", URL="dir_519d680f3895daf16cdc321bf46e4938.html"]
+  dir_e52520931db4c7d724d2a9bcdfb42858 [shape=box, label="netcoreapp3.1", style="filled,bold,", fillcolor="#eaeff9", color="grey25", URL="dir_e52520931db4c7d724d2a9bcdfb42858.html"];
+  }
+}

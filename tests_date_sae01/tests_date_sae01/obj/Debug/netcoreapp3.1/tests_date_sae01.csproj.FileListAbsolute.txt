@@ -1,0 +1,13 @@
+P:\s2\S2.01\tests_date_sae01\tests_date_sae01\bin\Debug\netcoreapp3.1\tests_date_sae01.exe
+P:\s2\S2.01\tests_date_sae01\tests_date_sae01\bin\Debug\netcoreapp3.1\tests_date_sae01.deps.json
+P:\s2\S2.01\tests_date_sae01\tests_date_sae01\bin\Debug\netcoreapp3.1\tests_date_sae01.runtimeconfig.json
+P:\s2\S2.01\tests_date_sae01\tests_date_sae01\bin\Debug\netcoreapp3.1\tests_date_sae01.runtimeconfig.dev.json
+P:\s2\S2.01\tests_date_sae01\tests_date_sae01\bin\Debug\netcoreapp3.1\tests_date_sae01.dll
+P:\s2\S2.01\tests_date_sae01\tests_date_sae01\bin\Debug\netcoreapp3.1\tests_date_sae01.pdb
+P:\s2\S2.01\tests_date_sae01\tests_date_sae01\obj\Debug\netcoreapp3.1\tests_date_sae01.csproj.AssemblyReference.cache
+P:\s2\S2.01\tests_date_sae01\tests_date_sae01\obj\Debug\netcoreapp3.1\tests_date_sae01.AssemblyInfoInputs.cache
+P:\s2\S2.01\tests_date_sae01\tests_date_sae01\obj\Debug\netcoreapp3.1\tests_date_sae01.AssemblyInfo.cs
+P:\s2\S2.01\tests_date_sae01\tests_date_sae01\obj\Debug\netcoreapp3.1\tests_date_sae01.csproj.CoreCompileInputs.cache
+P:\s2\S2.01\tests_date_sae01\tests_date_sae01\obj\Debug\netcoreapp3.1\tests_date_sae01.dll
+P:\s2\S2.01\tests_date_sae01\tests_date_sae01\obj\Debug\netcoreapp3.1\tests_date_sae01.pdb
+P:\s2\S2.01\tests_date_sae01\tests_date_sae01\obj\Debug\netcoreapp3.1\tests_date_sae01.genruntimeconfig.cache

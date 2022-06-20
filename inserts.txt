@@ -1,0 +1,19 @@
+--categorie
+--insert into CATEGORIEVEHICULE (libellecategorie) values ('coupé');
+--insert into CATEGORIEVEHICULE (libellecategorie) values ('berline');
+
+--vehicule
+insert into vehicule (IDCATEGORIE,libellevehicule) values (1,'mercedes amg gt coupé');
+insert into vehicule (IDCATEGORIE,libellevehicule) values (1,'Porsche 718 Cayman');
+insert into vehicule (IDCATEGORIE,libellevehicule) values (2,'Peugot 308');
+insert into vehicule (IDCATEGORIE,libellevehicule) values (2,'Ford Focus');
+
+--employe
+insert into employe (nom, prenom, telemploye, mail) values ('Guyon','Rémy', '0782263549','remy.guyon@etu.univ-savoie.fr');
+
+--date
+insert into date (LADATE) values ('2022-06-10');
+
+--emprunte
+insert into EMPRUNTE (IDEMPLOYE,IDVEHICULE,IDDATE,MISSION) values (1,1,1,'mission test');
+

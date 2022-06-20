@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="SAE01.Employe">
+    <Position X="0.5" Y="5.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAABAAAAAAAQKAAgACEAAEACACQAAQAAAAA=</HashCode>
+      <FileName>Employe.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SAE01.Emprunte">
+    <Position X="4" Y="5.5" Width="6.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAAgEAAAAAAQCAAgAAEAEEABAAQAAAAAAAA=</HashCode>
+      <FileName>Emprunte.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SAE01.Vehicule">
+    <Position X="10.75" Y="5.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAhAAAAAAAQCAAgAAEAIEAAAAAAAACAAAA=</HashCode>
+      <FileName>Vehicule.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SAE01.CategorieVehicule">
+    <Position X="14.5" Y="5.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>BAQACAAAAAABAAAAAAAQCAAgAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>CategorieVehicule.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SAE01.MainWindow">
+    <Position X="26" Y="11.5" Width="4.75" />
+    <NestedTypes>
+      <Enum Name="SAE01.MainWindow.FenetreAcive" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MainWindow.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gACAAQAAAAAAAAQAAAACAAIAAAAQAIAAAAAAAAAQBCA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SAE01.WindowCreer">
+    <Position X="20.25" Y="11.5" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>JAAAAACAAAACIAAgABAAAgAAAAAAAAAACSCCAAAAACA=</HashCode>
+      <FileName>WindowCreer.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SAE01.DataAccess">
+    <Position X="35.75" Y="11.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAAAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAE01.ApplicationData">
+    <Position X="31.25" Y="11.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAACAAAAAAAACAgAAAACAAAAQACAAABA=</HashCode>
+      <FileName>ApplicationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SAE01.CRUD&lt;T&gt;">
+    <Position X="9.25" Y="1.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAQCAAgAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>CRUD.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
